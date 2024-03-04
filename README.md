@@ -28,8 +28,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="15993477702538860091" data-share-method="host" data-aspect-ratio="1.5" data-width="100%"><a href="https://tenor.com/view/foxy-no-toque-gif-15993477702538860091">Foxy No Toque Sticker</a>from <a href="https://tenor.com/search/foxy+no+toque-stickers">Foxy No Toque Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<div>
+<a href="https://tenor.com/pt-BR/view/fnaf-fnaf-movie-fnaf-memes-fnaf-foxy-foxy-gif-12025166950242832116"></a>
   
 <a href="https://github.com/fehxavier">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehxavier&layout=compact&langs_count=7&theme=dracula"/>
