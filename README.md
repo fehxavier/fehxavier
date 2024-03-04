@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fehxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/fehxavier/fehxavier/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fehxavier.git/fehxavier.git/blob/output/github-contribution-grid-snake.svg)
