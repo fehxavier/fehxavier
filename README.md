@@ -12,11 +12,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
 ## Estou aprendedo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 ## Contatos:
 
@@ -35,6 +37,4 @@ You can click the Preview link to take a look at your changes.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fehxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/fehxavier/fehxavier/blob/output/github-contribution-grid-snake.svg)
-
-![Monkey Developer Gif](https://c.tenor.com/6m8NesNcJlsAAAAC/monkey-developer-software-coding-debug.gif)
+![Snake animation](https://github.com/fehxavier/fehxavier/blob/output/github-contribution-grid-snake.svg))
