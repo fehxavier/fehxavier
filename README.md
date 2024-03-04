@@ -28,8 +28,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<a href="https://tenor.com/pt-BR/view/fnaf-fnaf-movie-fnaf-memes-fnaf-foxy-foxy-gif-12025166950242832116"></a>
-  
+<img src="https://tenor.com/pt-BR/view/foxy-no-toque-gif-15993477702538860091" />
+
+<div>
 <a href="https://github.com/fehxavier">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehxavier&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fehxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
