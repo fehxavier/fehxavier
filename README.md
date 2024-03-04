@@ -28,7 +28,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div>
 <a href="https://github.com/fehxavier">
@@ -38,3 +37,4 @@ You can click the Preview link to take a look at your changes.
   
 ![Snake animation](https://github.com/fehxavier/fehxavier/blob/output/github-contribution-grid-snake.svg)
 
+![Monkey Developer Gif](https://c.tenor.com/6m8NesNcJlsAAAAC/monkey-developer-software-coding-debug.gif)
