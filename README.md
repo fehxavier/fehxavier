@@ -1,25 +1,23 @@
-<div style="position: relative;">
-    <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="35%" style="position: absolute; top: 0; right: 0;" />
+<div style="width: 100%; text-align: center; position: relative; height: 40%; overflow: hidden;">
+    <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" style="width: 60%; position: absolute; left: -100%; top: 50%; transform: translate(-50%, -50%);" />
 </div>
-<h2><b><spam>Olá, Devs!</b></spam></b>
-<br>
-<br>    
-<b><spam>Me chamo Felipe Xavier!</b></spam>
 <br>
 <br>
-<b><spam>Bem vindo ao meu perfil GitHub 👋</b></spam>
-<br>
-<br>
-🎓  Atualmente estou aprendendo ...
-<br>
-📧  Como entrar em contato comigo: ...
-<br>
-🎧  Curiosidade: ...
+<h2><b><spam>Olá, Devs!</spam></b></h2>
+<h2><b><spam>Bem vindo ao meu perfil GitHub 👋</spam></b></h2>
+<h2><b><samp>Sobre Mim 🚀:</samp></b></h2>
+<div>                                         
+- <samp>**Olá, mundo! Meu nome é [Felipe Xavier] e, tenho 19 anos, gosto de fazer **desenvolvimento front-end**. Adoro **Star Wars**, **Marvel** **Anime** tudo que seria de Nerd kkk. Atualmente, estou cursando a faculdade de **Análise e Desenvolvimento de Sistemas (ADS)**, onde estou aprimorando minhas habilidades e conhecimentos para construir sistemas.
 
-<br>
-<br>
- <h2><b><samp>Ferramentas e Tecnologias:</samp></b></h2>
+### O que eu faço 🎮⚽
+- <samp>**Desenvolvimento Front-End**: Adoro criar interfaces atrativas e bem definidas
+- <samp>**Projetos Pessoais**: Tenho algun projetos que refletem minha paixão por programação e design e outos.
+- <samp>**Jogos**: Nos meus momentos livres, Jogo FIFA 24/23, Warzone, Mortal Kombat 1/11, Overwacht e outros....
+- <samp>**Futebol**: Quando não estou programando ou jogando, estou no campo jogando futebol dando a vida no gol kkkk.
+</div>
+
 <div style="display: flex;">
+ <h2><b><samp>Ferramentas e Tecnologias:</samp></b></h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="70" style="margin-right: 10%;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="70" style="margin-right: 10%;"/>
 </div>
