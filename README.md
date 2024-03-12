@@ -7,7 +7,7 @@
 <h3><b><spam>Bem vindo ao meu perfil GitHub 👋</spam></b></h3>
 <h3><b><samp>Sobre Mim 🚀:</samp></b></h3>
 <div>                                         
-- <samp><b>Olá, mundo! Meu nome é [Felipe Xavier]</b> e, tenho 19 anos, gosto de fazer desenvolvimento front-end. Adoro <b>Star Wars, Marvel, Anime</b> tudo que seria de Nerd kkk. Atualmente, estou cursando a faculdade de **Análise e Desenvolvimento de Sistemas (ADS)**, onde estou aprimorando minhas habilidades e conhecimentos para construir sistemas.
+- <samp><b>Olá, mundo! Meu nome é [Felipe Xavier]</b> e, tenho 19 anos, gosto de fazer desenvolvimento front-end. Adoro <b>Star Wars, Marvel/DC, Anime</b> tudo que seria de Nerd kkk. Atualmente, estou cursando a faculdade de **Análise e Desenvolvimento de Sistemas (ADS)**, onde estou aprimorando minhas habilidades e conhecimentos para construir sistemas.
 
 ### O que eu faço 🎮⚽
 - <samp>**Desenvolvimento Front-End**: Adoro criar interfaces atrativas e bem definidas
