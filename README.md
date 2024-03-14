@@ -16,11 +16,6 @@
 - <samp>**Futebol**: Quando não estou programando ou jogando, estou no campo jogando futebol dando a vida no gol kkkk.
 </div>
 
-<div style="display: flex;">
- <h2><b><samp>Ferramentas e Tecnologias:</samp></b></h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="70" style="margin-right: 10%;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="70" style="margin-right: 10%;"/>
-</div>
 <br>          
 <h2><b><samp>Estou aprendendo:</samp></b></h2>
 <div style="display: flex;">
@@ -29,6 +24,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" style="margin-right: 10%;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" style="margin-right: 10%;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" style="margin-right: 10%;"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="70" style="margin-right: 10%;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="70" style="margin-right: 10%;"/>
 </div>
 <br>
 
